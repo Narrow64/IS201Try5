@@ -1,0 +1,35 @@
+body{
+    background-color: #3da39e;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.titlewords{
+    margin-top: 4rem;
+    margin-left: 7rem;
+
+}
+.titlewords h1{
+    text-transform: uppercase;
+    
+
+}
+iframe{
+    margin-left: 3rem;
+    padding-bottom: 2rem;
+}
+img{
+    width: 80%;
+    margin-left: 3rem;
+    padding-bottom: 2rem;
+}
+.dispaly{
+    display: flex;
+
+}
+.footer {
+    width: 100%;
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(168, 163, 39);
+    color: white;
+  }
